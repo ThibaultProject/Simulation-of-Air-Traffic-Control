@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1649519391 source:c:\users\samue\documents\travail\ing2\informatique\s2\projet\avion\avion.cpp
+	"Avion.h"
+
+1649519391 c:\users\samue\documents\travail\ing2\informatique\s2\projet\avion\avion.h
+	"Myallegro.h"
+	"Souris.h"
+
+1649256877 source:c:\users\samue\documents\travail\ing2\informatique\s2\projet\avion\main.cpp
+	"Simulateur.h"
+
+1649586579 source:c:\users\samue\documents\travail\ing2\informatique\s2\projet\avion\aeroport.cpp
+	"Aeroport.h"
+
+1649582640 c:\users\samue\documents\travail\ing2\informatique\s2\projet\avion\aeroport.h
+	"Myallegro.h"
+	"Souris.h"
+	"Avion.h"
+
+1649686309 source:c:\users\samue\documents\travail\ing2\informatique\s2\projet\avion\simulateur.cpp
+	"Simulateur.h"
+
+1649686250 c:\users\samue\documents\travail\ing2\informatique\s2\projet\avion\simulateur.h
+	"Aeroport.h"
+	"Avion.h"
+	"Horloge.h"
+	"Myallegro.h"
+	"Souris.h"
+	"Vol.h"
+	"Case.h"
+
+1649579206 source:c:\users\samue\documents\travail\ing2\informatique\s2\projet\avion\myallegro.cpp
+	"Myallegro.h"
+
+1649411812 c:\users\samue\documents\travail\ing2\informatique\s2\projet\avion\myallegro.h
+	<algorithm>
+	"allegro.h"
+	<cmath>
+	<fstream>
+	<iostream>
+	<queue>
+	<vector>
+
+1649078620 source:c:\users\samue\documents\travail\ing2\informatique\s2\projet\avion\souris.cpp
+	"Souris.h"
+
+1649078070 c:\users\samue\documents\travail\ing2\informatique\s2\projet\avion\souris.h
+	"Myallegro.h"
+
+1649525771 source:c:\users\samue\documents\travail\ing2\informatique\s2\projet\avion\vol.cpp
+	"Vol.h"
+
+1649525016 c:\users\samue\documents\travail\ing2\informatique\s2\projet\avion\vol.h
+	"Aeroport.h"
+	"Myallegro.h"
+	"Horloge.h"
+	"Case.h"
+
+1649520791 source:c:\users\samue\documents\travail\ing2\informatique\s2\projet\avion\horloge.cpp
+	"Horloge.h"
+
+1649151831 c:\users\samue\documents\travail\ing2\informatique\s2\projet\avion\horloge.h
+	"Myallegro.h"
+
+1649325344 source:c:\users\samue\documents\travail\ing2\informatique\s2\projet\avion\case.cpp
+	"Case.h"
+
+1649325356 c:\users\samue\documents\travail\ing2\informatique\s2\projet\avion\case.h
+	"Myallegro.h"
+
