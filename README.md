@@ -11,7 +11,7 @@ This project is a simulation of air traffic control using graph theory, develope
 6. [Hardware and Software Requirements](#hardware-and-software-requirements)
 
 ## Objectives and Project Schedule
-The primary objective of this project is to apply graph theory concepts to create a simulation of air traffic control. The project was made in a team of two in a week period.
+The primary objective of this project is to apply graph theory concepts to create a simulation of air traffic control. The project was made in a team of two during a week period.
 
 ## PowerPoint Documentation
 A detailed PowerPoint documentation will be provided, including the following sections:
