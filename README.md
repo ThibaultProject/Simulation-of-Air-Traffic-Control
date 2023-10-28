@@ -9,6 +9,7 @@ This project is a simulation of air traffic control using graph theory, develope
 4. [First Mission: Airport Control System](#first-mission-airport-control-system)
 5. [Advanced Missions](#advanced-missions)
 6. [Hardware and Software Requirements](#hardware-and-software-requirements)
+7. [Screenshot](#screenshot)
 
 ## Objectives and Project Schedule
 The primary objective of this project is to apply graph theory concepts to create a simulation of air traffic control. The project was made in a team of two during a week period.
@@ -53,9 +54,12 @@ The project includes more ambitious missions, such as handling weather disturban
 - Object-oriented C++ language
 - Console and/or graphical environment for input and display
 
+## Screenshot
+![work-1](https://github.com/ThibaultProject/Simulation-of-Air-Traffic-Control/assets/99489109/e9cbde4d-3f22-4e58-b985-602b22e9ca48)
 ---
 
 *Note: This README is a brief overview of the project. The detailed documentation, code, and graphics should be provided in the project repository.*
 
 **Project created by [Thibault Di Giannantonio] (Github : ThibaultProject) & [Samuel Chauvet] (GitHub : SamuelChauvet)**
+
 
